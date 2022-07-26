@@ -1,0 +1,10 @@
+git config -- global user.email  ......
+git config -- global user.name  ....
+
+______________________________________________________
+
+Shortcut for emoji is (windows + .)
+which will represent some of the emoji which you can enter as an OUTPUT...
+___________________________
+Still some of the other shortcut!!
+
